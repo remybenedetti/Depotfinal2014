@@ -9,7 +9,7 @@ public class MainTestGit {
 	    	monAtelier= new Atelier(1,1,"info",10);
 	    	System.out.print ("Voici mon premier atelier : ");
 	    	System.out.print (monAtelier.getLibelleatelier());
-	    	
+	    	//il est modifié
 	    }
 
 }
